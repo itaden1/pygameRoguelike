@@ -1,6 +1,8 @@
 # Pygame Roguelike
 
-This repo was created as a legacy/reminder of where my programming journy began. Its horribly messy, badly written, incomplete, and actually works (kind of...). I am also actually proud of it (kind of...)
+This repo was created as a legacy/reminder of where my programming journy began. Its horribly messy, badly written, incomplete, and actually works (kind of...). I am also actually proud of it (kind of...).
+
+Runs on python 2.7
 
 When I began to code this game I barely new what a variable was and it serves as a reminder of how far I have come.
 
