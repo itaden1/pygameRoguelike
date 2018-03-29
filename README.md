@@ -9,5 +9,5 @@ When I began to code this game I barely new what a variable was and it serves as
 * Create a win case
 
 ![Screenshot](/screenshot.png)
-Format: ![screenshot](url)
+
 
